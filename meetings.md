@@ -14,7 +14,7 @@ Meetings start at 2 PM.
 
 |  Date | Topic/Event  | Presenter |
 |---|---|---|
-| Jan 10  |  Basic Enclosure Setups | Kurt |
+| Jan 10  |  Basic Enclosure Setups | Kurt Schatzl|
 | Feb 14  |  Open  |  TBD |
 | Mar 13  |  Open  |  TBD |
 | Apr 10  |  Open  |  TBD |
