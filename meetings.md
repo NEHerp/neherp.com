@@ -10,9 +10,7 @@ permalink: /meetings/
 
 [Directions to the NEWC](/directions/)
 
-Dear Prospective Presenter at an upcoming NEHS meeting:
-
-If you would like to come to a meeting and speak to our group, please choose an open date from the list below. Please tell us what format you can present (PowerPoint, Keynote etc.) Let us know if you have a Mac or PC. We look forward to your talk!
+Meetings start at 2 PM.
 
 |  Date | Topic/Event  | Presenter |
 |---|---|---|
@@ -28,3 +26,22 @@ If you would like to come to a meeting and speak to our group, please choose an 
 | Oct ??  |  Expo  |   |
 | Nov 13  |  Open  |  TBD |
 | Dec 11  |  Holiday Party |   |
+  
+Dear Prospective Presenter:
+------------------
+
+If you would like to come to a meeting and speak to our group, please choose an open date from the list above. Please tell us what format you can present with (PowerPoint, Keynote etc.) Let us know if you have a Mac or PC. 
+
+Your talk should run 30-45 minutes or so; 60 minutes is fine if you like!
+
+If you need a slide projector or laptop projector, let us know.
+
+There is a $50 Honorarium to the speaker in appreciation.
+
+
+Contact info: NEWC phone# 781-682-4878
+
+500 Columbian Street  
+South Weymouth, MA  02190
+
+NEHS website: www.neherp.com and Herpline # (617) 789-5800 for directions.
