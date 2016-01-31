@@ -26,6 +26,16 @@ $on-laptop:        800px;
 
 
 
+$border-color                	: #000;
+
+$table-border-color          	: $border-color;
+$table-border                	: 1px solid $table-border-color;
+//$table-background            	: $body-color;
+//$table-header-color          	: lighten($table-background, 10);
+//$table-hover-color           	: darken($table-background, 2);
+//$table-stripe-color          	: darken($table-background, 4);
+//$table-stripe-color-hover    	: darken($table-stripe-color, 5);
+
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {

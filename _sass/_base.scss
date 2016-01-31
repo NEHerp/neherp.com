@@ -23,7 +23,10 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-
+table, th, td {
+   border: $table-border;
+   padding: 5px;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
