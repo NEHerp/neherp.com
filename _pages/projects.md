@@ -18,4 +18,4 @@ Check out [The Black Ratsnake Research Project](/nehs-projects/black-ratsnakes.h
 
 We have come up with some suggestions for how to deal with [bad pet stores](/nehs-projects/bad_pet_store.html).
 
-The Commonwealth of Massachusetts has permit requirements for many herptiles. NEHS is an active contributor in the list review and update process.  The last time the regulations were reviewed, NEHS formed a committee of a dozen members and submitted a comprehensive list of recommended changes to the Massachusetts Division of Fisheries and Wildlife (DFW). To see that proposal, and some of the surrounding history, click here.
+The Commonwealth of Massachusetts has permit requirements for many herptiles. NEHS is an active contributor in the list review and update process.  The last time the regulations were reviewed, NEHS formed a committee of a dozen members and submitted a comprehensive list of recommended changes to the Massachusetts Division of Fisheries and Wildlife (DFW). To see that proposal, and some of the surrounding history, click [here](/nehs-projects/regulation_advocacy.html).
