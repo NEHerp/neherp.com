@@ -22,4 +22,4 @@ The Proposal also included a table of contents, two tables listing all current s
 [Proposal Preface](/nehs-projects/proposal_preface.html)  
 [Proposed Changes](/nehs-projects/proposed_changes.html)  
 [Proposal Conclusions](/nehs-projects/proposal_conclusion.html)  
-[Proposal References]()
+[Proposal References](/nehs-projects/proposal_references.html)
