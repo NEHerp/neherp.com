@@ -6,7 +6,8 @@ permalink: /nehs-projects/plymouth_redbelly_turtle.html
 
 [Wondering how you can participate with head starting these turtles? Click here and find out how it's done.](/nehs-projects/plymouth_redbelly_turtle_headstart_program.html)
 
-Plymouth Redbelly Turtle Pseudemys rubriventris
+Plymouth Redbelly Turtle  
+Pseudemys _rubriventris_
 
 ***Description:***<sup>1</sup>
 
