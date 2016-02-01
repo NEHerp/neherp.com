@@ -12,7 +12,7 @@ Twice every year, NEHS presents the [Massachusetts Reptile Expo](http://www.mass
 
 The [Cape Ann Vernal Pond Team](http://capeannvernalpond.org/) is an official committee within the NEHS, and also a separate organization. NEHS welcomed them as a way of contributing to the protection of local amphibian habitat.
 
-Read about Red Belly Turtles and the Massachusetts Division of Fisheries & Wildlife's and NEHS' efforts to increase hatchling survivals.
+Read about [Red Belly Turtles](/nehs-projects/plymouth_redbelly_turtle.html) and the Massachusetts Division of Fisheries & Wildlife's and NEHS' efforts to increase hatchling survivals.
 
 Check out The Black Ratsnake Research Project funded in part by NEHS grants.
 
