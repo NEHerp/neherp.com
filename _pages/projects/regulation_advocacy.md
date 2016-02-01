@@ -19,7 +19,7 @@ The Proposal also included a table of contents, two tables listing all current s
  
 [Initial Letter from DFW](/nehs-projects/initial_letter_from_dfw.html)  
 [Proposal Cover Letter](/nehs-projects/proposal_cover_letter.html)  
-[Proposal Preface]()  
-[Proposed Changes]()  
-[Proposal Conclusions]()  
+[Proposal Preface](/nehs-projects/proposal_preface.html)  
+[Proposed Changes](/nehs-projects/proposed_changes.html)  
+[Proposal Conclusions](/nehs-projects/proposal_conclusion.html)  
 [Proposal References]()
