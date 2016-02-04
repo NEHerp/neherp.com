@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cuban Tree Frong
+title: Cuban Tree Frog
 category: Guides
 tags: Amphibians
 permalink: /care_guides/amphibians/cuban_tree_frog.html
