@@ -2,7 +2,7 @@
 layout: page
 title: Tomato Frog Care Sheet
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/tomato_frog_care_sheet.html
 ---
 

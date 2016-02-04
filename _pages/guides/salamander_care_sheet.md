@@ -2,7 +2,7 @@
 layout: page
 title: Salamander Care Sheet
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/salamander_care_sheet.html
 ---
 

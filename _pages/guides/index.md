@@ -1,20 +1,22 @@
 ---
 layout: page
 title: Care Guides
+menu: Guides
+category: Menu
 permalink: /care_guides/
 ---
 
 
-
+  
 {% assign categories = site.pages | where: 'category', 'Guides' | group_by: 'tags' %}
 
 {% for category in categories %}
-
-- [{{ category.name | capitilize }}](/care_guides/{{category.name}}) ({{ category.items.size }})	
+  {% assign category_name = category.name | capitilize %}
+- {{ category_name }} ({{ category.items.size }})	
 
   {% for page in category.items %}
 
-  	- [{{ page.title | capitilize }}](/care_guides/{{category.name}}/{{page.name}})
+  - [{{ page.title }}](/care_guides/{{category.name}}/{{page.name}})
 
   {% endfor %}  
 {% endfor %}

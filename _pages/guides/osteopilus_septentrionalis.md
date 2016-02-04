@@ -2,7 +2,7 @@
 layout: page
 title: Osteopilus septentrionalis
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/osteopilus_septentrionalis.html
 ---
 

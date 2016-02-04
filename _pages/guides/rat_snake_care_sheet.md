@@ -2,7 +2,7 @@
 layout: page
 title: Rat Snake (N. American, European and Asian) Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/rat_snake_care_sheet.html
 ---
 

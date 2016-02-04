@@ -2,7 +2,7 @@
 layout: page
 title: Kingsnake Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/kingsnake_care_sheet.html
 ---
 

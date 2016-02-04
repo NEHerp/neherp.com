@@ -2,7 +2,7 @@
 layout: page
 title: Toad (American, Marine, etc.) Care Sheet
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/toad_(American,_Marine,_etc.)_care_sheet.html
 ---
 

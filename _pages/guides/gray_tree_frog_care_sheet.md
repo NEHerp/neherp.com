@@ -2,7 +2,7 @@
 layout: page
 title: Gray Tree Frog Care Sheet
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/gray_tree_frog_care_sheet.html
 ---
 

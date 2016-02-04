@@ -2,7 +2,7 @@
 layout: page
 title: American Chameleon (Anole) Care Sheet
 category: Guides
-tags: lizards
+tags: Lizards
 permalink: /care_guides/lizards/american_chameleon_(anole)_care_sheet.html
 ---
 

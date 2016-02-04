@@ -2,7 +2,7 @@
 layout: page
 title: Horned Frog Care Sheet
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/horned_frog_care_sheet.html
 ---
 

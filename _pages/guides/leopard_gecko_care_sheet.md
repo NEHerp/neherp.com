@@ -2,7 +2,7 @@
 layout: page
 title: Leopard Gecko Care Sheet
 category: Guides
-tags: lizards
+tags: Lizards
 permalink: /care_guides/lizards/leopard_gecko_care_sheet.html
 ---
 

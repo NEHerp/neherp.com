@@ -2,7 +2,7 @@
 layout: page
 title: Pine, Bull & Gopher Snake Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/pine_bull_gopher_snake_care_sheet.html
 ---
 

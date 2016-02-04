@@ -2,7 +2,7 @@
 layout: page
 title: Emerald Swift Care Sheet
 category: Guides
-tags: lizards
+tags: Lizards
 permalink: /care_guides/lizards/emerald_swift_care_sheet.html
 ---
 

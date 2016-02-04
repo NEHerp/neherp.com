@@ -2,7 +2,7 @@
 layout: page
 title: Ball (Royal) Ball Python Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/ball_python_care_sheet.html
 ---
 

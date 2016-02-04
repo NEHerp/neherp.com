@@ -2,7 +2,7 @@
 layout: page
 title: Corn Snake Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/corn_snake_care_sheet.html
 ---
 

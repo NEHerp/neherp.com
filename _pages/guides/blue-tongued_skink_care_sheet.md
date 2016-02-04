@@ -2,7 +2,7 @@
 layout: page
 title: Blue-tongued Skink Care Sheet
 category: Guides
-tags: lizards
+tags: Lizards
 permalink: /care_guides/lizards/blue-tongued_skink_care_sheet.html
 ---
 

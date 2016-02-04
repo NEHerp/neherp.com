@@ -2,7 +2,7 @@
 layout: page
 title: Sunbeam Snake Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/sunbeam_snake_care_sheet.html
 ---
 

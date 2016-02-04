@@ -2,7 +2,7 @@
 layout: page
 title: Boa & Python Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/boa_and_python_care_sheet.html
 ---
 

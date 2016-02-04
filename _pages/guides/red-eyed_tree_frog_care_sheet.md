@@ -2,7 +2,7 @@
 layout: page
 title: Red-eyed Tree Frog Care Sheet
 category: Guides
-tags: amphibians
+tags: Amphibians
 permalink: /care_guides/amphibians/red-eyed_tree_frog_care_sheet.html
 ---
 

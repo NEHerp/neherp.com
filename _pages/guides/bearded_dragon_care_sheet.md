@@ -2,7 +2,7 @@
 layout: page
 title: Bearded Dragon Care Sheet
 category: Guides
-tags: lizards
+tags: Lizards
 permalink: /care_guides/lizards/bearded_dragon_care_sheet.html
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Water Snake Care Sheet
 category: Guides
-tags: snakes
+tags: Snakes
 permalink: /care_guides/snakes/water_snake_care_sheet.html
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Green Iguana Care Sheet
 category: Guides
-tags: lizards
+tags: Lizards
 permalink: /care_guides/lizards/green_iguana_care_sheet.html
 ---
 
