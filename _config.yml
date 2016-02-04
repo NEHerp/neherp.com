@@ -13,3 +13,6 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 include: ['_pages', '_pages/projects', '_pages/guides']
+
+# Put this on a different port so I can have expo and this site running at the same time
+port: 4001
