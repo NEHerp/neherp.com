@@ -45,18 +45,3 @@ Chelydra serpentina
 Experience the joy of reptiles! Whether you are already a reptile enthusiast, fascinated by these exotic creatures or just a little bit curious, you are welcome to join us at one of our monthly meetings. With so few reptile organizations in the New England area, our meetings provide an opportunity for people of all ages to learn, touch and observe all kinds of amphibians and reptiles. In addition, meetings provide the means to adopt or purchase reptiles and amphibians such as snakes, frogs, turtles, toads, lizards and much more.
 
 The Society meets monthly at the New England Wildlife Center in Weymouth, Massachusetts. For details, click on the [Meetings page](/meetings/).
-  <h2>Posts</h2>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
