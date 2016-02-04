@@ -37,7 +37,9 @@ For more information, click [here](http://www.mass.gov/eea/agencies/dfg/dfw/laws
 
 ***Amelanistic Snapping Turtle***
 Chelydra serpentina
-![amelanistic snapping turtle hatchling](/assets/9-6-08_amelanistic_snapping_turtle_hatchling.jpg "amelanistic snapping turtle hatchling")
+
+<img src="/assets/9-6-08_amelanistic_snapping_turtle_hatchling.jpg" width="75%" />
+
 ***Collected from a nest in North Dartmouth, Massachusetts, September 6, 2008***
 
 Experience the joy of reptiles! Whether you are already a reptile enthusiast, fascinated by these exotic creatures or just a little bit curious, you are welcome to join us at one of our monthly meetings. With so few reptile organizations in the New England area, our meetings provide an opportunity for people of all ages to learn, touch and observe all kinds of amphibians and reptiles. In addition, meetings provide the means to adopt or purchase reptiles and amphibians such as snakes, frogs, turtles, toads, lizards and much more.
