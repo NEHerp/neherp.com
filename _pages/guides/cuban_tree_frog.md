@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Osteopilus septentrionalis
+title: Cuban Tree Frong
 category: Guides
 tags: Amphibians
-permalink: /care_guides/amphibians/osteopilus_septentrionalis.html
+permalink: /care_guides/amphibians/cuban_tree_frog.html
 ---
 
+*Osteopilus septentrionalis*
 
 #### Description:
 
