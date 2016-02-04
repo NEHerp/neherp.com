@@ -2,6 +2,7 @@
 layout: page
 title: Contact us
 menu: Contact Us
+category: Menu
 permalink: /contactus/
 ---
 

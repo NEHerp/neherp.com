@@ -2,6 +2,7 @@
 layout: page
 title: Food Animals
 menu: Food Animals
+category: Menu
 permalink: /foodanimals/
 ---
 

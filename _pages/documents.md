@@ -2,6 +2,7 @@
 layout: page
 title: Organizational Documents
 menu: Documents
+category: Menu
 permalink: /organizational-documents/
 ---
 

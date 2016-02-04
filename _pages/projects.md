@@ -2,6 +2,7 @@
 layout: page
 title: NEHS Projects
 menu: Projects
+category: Menu
 permalink: /nehs-projects/
 ---
 

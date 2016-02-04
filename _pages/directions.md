@@ -2,6 +2,7 @@
 layout: page
 title: Directions to NEHS Meetings
 menu: Directions
+category: Menu
 permalink: /directions/
 ---
 

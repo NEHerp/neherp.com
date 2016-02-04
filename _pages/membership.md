@@ -2,6 +2,7 @@
 layout: page
 title: Join the NEHS
 menu: Membership
+category: Menu
 permalink: /membership/
 ---
 
