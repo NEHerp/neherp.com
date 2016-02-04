@@ -1,0 +1,26 @@
+<div class="col-md-3 blog-sidebar">
+   <div class="sidebar-module">
+     <h4>Vendors:</h4>
+       <ol class="list-unstyled">
+      {% for vendor in site.data.shows[next_show].vendors %}
+        {% if vendor.url %}
+          <li><a href="{{vendor.url}}">{{ vendor.name }}</a></li>
+        {% else %}
+          <li>{{ vendor.name }}</li>              
+        {% endif %}
+      {% endfor %}
+      </ol>
+    </div>
+   <div class="sidebar-module">
+     <h4>Last Show Vendors:</h4>
+       <ol class="list-unstyled">
+      {% for vendor in site.data.shows[previous_show].vendors %}
+        {% if vendor.url %}
+          <li><a href="{{vendor.url}}">{{ vendor.name }}</a></li>
+        {% else %}
+          <li>{{ vendor.name }}</li>              
+        {% endif %}
+      {% endfor %}
+      </ol>
+    </div>          
+</div><!-- /.blog-sidebar -->

@@ -1,17 +1,25 @@
 <!DOCTYPE html>
 <html>
 
+{% assign next_show = site.data.general.next_show | date: '%Y%m%d' %}
+{% assign previous_show = site.data.general.previous_show | date: '%Y%m%d' %}
   {% include head.html %}
 
   <body>
 
     {% include header.html %}
+    {% include leftnav.html %}
+    {% if page.name == 'index.md' %}
+    	<div class="col-md-6 blog-main">
+      		{{ content }}
+	    </div>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+	    {% include rightnav.html %}
+    {% else %} 
+    	<div class="col-md-8 blog-main">
+      		{{ content }}
+	    </div>
+	{% endif %}
 
     {% include footer.html %}
 
