@@ -42,7 +42,6 @@ There is a $50 Honorarium to the speaker in appreciation.
 
 Contact info: NEWC phone# 781-682-4878
 
-500 Columbian Street  
-South Weymouth, MA  02190
+{{ site.data.general.address}}
 
-NEHS website: www.neherp.com and Herpline # (617) 789-5800 for directions.
+NEHS website: www.neherp.com and Herpline # {{site.data.general.herpline}} for directions.
