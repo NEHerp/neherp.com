@@ -2,9 +2,23 @@
   role: President / Environmental Law Analyst / Food Animals  
   email: schatzl@neherp.com	
 
-- name: Michael Wood  
+- name: Kevin Doherty  
   role: Vice President  
-  email: vp@neherp.com	
+  email: kevind@neherp.com  
+
+- name: Dave Holbert  
+  role: Director / Membership  
+  email: dave@neherp.com  
+
+- name: Frankie Morrissey  
+  role: Director  
+  email: frankm@neherp.com  
+
+- name: Shawn Madan
+  role: Director  
+
+- name: Sarah Barbosa
+  role: Director  
 
 - name: Katy Morrissey  
   role: Secretary / Membership  
@@ -18,7 +32,7 @@
   role: Treasurer  
   email: billdonovan@neherp.com	
 
-- name: Annalori Doherty  
+- name: Anne-Lorrie R. Doherty
   role: Librarian  
   email: librarian@neherp.com	
 
@@ -26,28 +40,12 @@
   role: Sergeant at Arms / Adoption Coordinator / Membership  
   email: adoption@neherp.com	
 
-- name: Kevin Doherty  
-  role: Director  
-  email: kevind@neherp.com	
-
-- name: Jack McCarthy  
-  role: Director  
-  email: jackm@neherp.com	
-
-- name: Dave Holbert  
-  role: Director / Membership  
-  email: dave@neherp.com	
-
-- name: Frankie Morrissey  
-  role: Director  
-  email: frankm@neherp.com	
-
 - name: Rick Roth  
-  role: Nominating Committee, Cape Ann Vernal Pond Team  
+  role: Nominating Committee, Cape Ann Vernal Pond Team
   email: rick@neherp.com	
 
 - name: Joe Martinez  
-  role: Program & Grant Committees  
+  role: Program & Grant Committees
   email: joe@neherp.com	
 
 - name: Dan Rowe  
