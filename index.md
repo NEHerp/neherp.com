@@ -38,7 +38,7 @@ For more information, click [here](http://www.mass.gov/eea/agencies/dfg/dfw/laws
 ***Amelanistic Snapping Turtle***
 Chelydra serpentina
 
-<img src="/assets/9-6-08_amelanistic_snapping_turtle_hatchling.jpg" width="75%" />
+<img src="/assets/9-6-08_amelanistic_snapping_turtle_hatchling.jpg" width="75%" alt="Amelanistic snapping turtle hatchling"/>
 
 ***Collected from a nest in North Dartmouth, Massachusetts, September 6, 2008***
 
