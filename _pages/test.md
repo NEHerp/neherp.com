@@ -4,4 +4,4 @@ title: Contact us
 permalink: /test.html
 ---
 
-{{ site.github.public_repositories }}
+{{ site.github.public_repositories[0] }}
