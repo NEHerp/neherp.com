@@ -11,7 +11,7 @@ url: "http://www.neherp.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 include: ['_pages', '_pages/projects', '_pages/guides']
-
+exclude: [vendor]
 # Put this on a different port so I can have expo and this site running at the same time
 port: 4001
 
