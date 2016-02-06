@@ -4,6 +4,7 @@ title: Leopard Gecko Care Sheet
 category: Guides
 tags: Lizards
 permalink: /care_guides/lizards/leopard_gecko_care_sheet.html
+redirect_from: /herptile-care-sheets/9-lizard-care-sheets/113-leopard-gecko-care
 ---
 
 *Eublepharis macularius*
