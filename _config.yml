@@ -19,6 +19,5 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
 
-
-  whitelist:
+whitelist:
   - jekyll-redirect-from
