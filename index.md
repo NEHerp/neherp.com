@@ -35,10 +35,10 @@ Our goals:
 
 For more information, click [here](http://www.mass.gov/eea/agencies/dfg/dfw/laws-regulations/cmr/321-cmr-900-exemption-list.html#9.01) to visit the Massachusetts Division of Fisheries and Wildlife list of exempt reptiles and amphibians. Scroll down to section 10 for the complete list of reptiles.
 
-***Amelanistic Snapping Turtle***
+***Amelanistic Snapping Turtle***  
 Chelydra serpentina
 
-<img src="/assets/9-6-08_amelanistic_snapping_turtle_hatchling.jpg" width="75%" alt="Amelanistic snapping turtle hatchling"/>
+![Amelanistic snapping turtle hatchling](/assets/9-6-08_amelanistic_snapping_turtle_hatchling.jpg){: .img-thumbnail .img-fluid }
 
 ***Collected from a nest in North Dartmouth, Massachusetts, September 6, 2008***
 
