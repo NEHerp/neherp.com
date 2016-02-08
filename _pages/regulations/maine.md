@@ -38,7 +38,7 @@ Importers of wildlife must comply with CITES and Endangered and Threatened Speci
 
 **Click link to navigate to a specific section of the list:**
 
-[Snakes]() | [Lizards]() | [Turtles]() | [Amphibians]()
+[Snakes](#) | [Lizards](#) | [Turtles](#) | [Amphibians](#)
 
 
 EXCEPTION CODES
