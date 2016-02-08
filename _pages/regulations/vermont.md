@@ -17,7 +17,7 @@ Individuals, educational institutions, or research facilities seeking to import 
 
 Importation and Possession Permit: Newly adopted Regulation #881 provides clear guidelines on the importation and possession requirements for all pet stores, dealers in wildlife, hobbyists, and prospective pet owners. These are intended to provide the public with current Department guidelines that identify which species are allowed to be imported and possessed without a permit and which species an individual or business must first obtain an importation and possession permit.
 
-Many wildlife species are designated as [Unrestricted Reptiles & Amphibians](). Descriptions and lists of species are provided below. Species' designations are generally based upon the following criteria as to whether the species is:
+Many wildlife species are designated as [Unrestricted Reptiles & Amphibians](#). Descriptions and lists of species are provided below. Species' designations are generally based upon the following criteria as to whether the species is:
 
 - Capable of competing with native wildlife species
 - A risk of transmitting diseases to native wildlife species
@@ -26,13 +26,13 @@ Many wildlife species are designated as [Unrestricted Reptiles & Amphibians](). 
 
 **Species not listed as Unrestricted Wild Animals below require an Importation and Possession Permit, which may or may not be granted depending upon specific circumstances or conditions.**
 
-[Unrestricted Reptile & Amphibian List:]() No Importation and Possession Permit is needed to import and possess these species into the state. These species have been designated as Unrestricted based on the fact that the species satisfy none of the criteria listed above. Those species listed as Exemptions in the [Appendix: Exceptions to List]() do require an Importation and Possession Permit from the Department.
+[Unrestricted Reptile & Amphibian List:](#) No Importation and Possession Permit is needed to import and possess these species into the state. These species have been designated as Unrestricted based on the fact that the species satisfy none of the criteria listed above. Those species listed as Exemptions in the [Appendix: Exceptions to List](#) do require an Importation and Possession Permit from the Department.
 
 Permit applications can be obtained from the Vermont Fish and Wildlife Department, Agency of Natural Resources, 103 South Main Street, 10 South, Waterbury, VT 05671-0501. Their telephone number is: (802) 241-3700.
 
-[Click link to navigate to a specific section of the list:]()
+[Click link to navigate to a specific section of the list:](#)
 
-[Unrestricted List]() | [Appendix: Exceptions to List]()
+[Unrestricted List](#) | [Appendix: Exceptions to List](#)
 
 **Unrestricted Reptile & Amphibian List**
 

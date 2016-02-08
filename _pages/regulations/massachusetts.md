@@ -11,11 +11,11 @@ The lists available below are a combination of the new Permits List and the Mass
 
 Permit applications can be obtained from the [Massachusetts Division of Fisheries and Wildlife](http://www.mass.gov/dfwele/dfw/) at 100 Cambridge Street, Leverett Saltonstall Building, Room 1902, Boston, MA 02202. Their telephone number is (617) 727-3151. Two types of permits are available: a permit to possess a single animal, and a permit for multiple animals (necessary for captive breeding). Permits are renewed on a yearly basis, for a small fee (per permit, not per animal). Permits are relatively easy to obtain for animals that are captive-bred (if they aren't already exempt) except in the case of venomous species. For rare, imported, or endangered animals, permits are issued on a case-by-case basis; if you want to work with an endangered species for example, it helps if you have a lot of experience with related, non-threatened, species. A number of members of the New England Herpetological Society possess permits for many different animals. Ask around at a meeting for more information if you are interested.
 
-The revised regulations were circulated to Massachusetts pet stores in August of 1995. To read the cover letter that accompanied the regulations, click [here]().
+The revised regulations were circulated to Massachusetts pet stores in August of 1995. To read the cover letter that accompanied the regulations, click [here](#).
 
 **Click link to navigate to a specific section of the list:**
 
-[Amphibians]() | [Crocodilians]() | [Lizards]() | [Snakes]() | [Turtles & Tortoises]()
+[Amphibians](#) | [Crocodilians](#) | [Lizards](#) | [Snakes](#) | [Turtles & Tortoises](#)
  
 
 **Amphibians:**
