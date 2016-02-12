@@ -51,13 +51,13 @@ This page is an index of information collected from all sides of the discussion.
 
 8. [PIJAC Statement on HR669 from http://www.pijac.org](/herptile_legislative_issues/pijac-statement-on-hr669-from-httpwwwpijacorg.html)
 
-9. Cost-benefit analysis of pre-import screening by Reuben P. Keller, David M. Lodge & David C. Finnoff
+9. [Cost-benefit analysis of pre-import screening by Reuben P. Keller, David M. Lodge & David C. Finnoff](/herptile_legislative_issues/cost-benefit-analysis-of-pre-import-screening.html)
 
 10. [National Environmental Coalition on Invasive Species brochure in support of HR669](/docs/brochure-hr669-1.pdf)
 
 11. [Position Paper of the Ecological Society of America](/docs/position%20paper%20of%20the%20ecological%20society%20of%20america.pdf)
 
-12. United States Association of Reptile Keepers Position on Passage of HR669
+12. [United States Association of Reptile Keepers Position on Passage of HR669](/herptile_legislative_issues/usark-position-paper-on-hr669.html)
 
 13. USARK Testimony before Subcommittee on Insular Affairs, Oceans & Wildlife
 
