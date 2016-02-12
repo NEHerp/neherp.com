@@ -61,11 +61,11 @@ This page is an index of information collected from all sides of the discussion.
 
 13. USARK Testimony before Subcommittee on Insular Affairs, Oceans & Wildlife
 
-14. USARK Letter to Honorable Madeline Bordallo May 20, 2009
+14. [USARK Letter to Honorable Madeline Bordallo May 20, 2009](/herptile_legislative_issues/usark-letter-to-honorable-madeline-bordallo-may-20-2009.html)
 
 **USFWS Injurious Wildlife Species Review Concerning Python, Boa, and Eunectes genera**
 
-1. The Full Text of The Lacey Act
+1. [The Full Text of The Lacey Act](/herptile_legislative_issues/the-lacey-act.html)
 
 2. [USFWS Notice of Inquiry](/herptile_legislative_issues/usfws-notice-of-inquiry.html)
 
