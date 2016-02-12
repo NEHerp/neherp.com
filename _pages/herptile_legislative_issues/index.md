@@ -17,11 +17,11 @@ This page is an index of information collected from all sides of the discussion.
 2. [Introduction of S.373, To amend title 18, United States Code](/herptile_legislative_issues/intro_of_S.373_to_amend_title_18_united_states_code.html)
 3. The Full Text of S.373 is available at:  <http://thomas.loc.gov/> enter S373 in the search field.
 4. [Full Text of Section 42(a)(1) of title 18, U.S. Code with proposed ammendment inserted](/herptile_legislative_issues/section-42a1-of-title-18-us-code-with-proposed-changes.html)
-5. Palm Beach Post Article about S.373, Thursday, February 05, 2009
-6. Press Release from USARK (U.S. Association of Reptile Keepers) opposing S.373
-7. Pet Industry Joint Advisory Council Position on S.373 (From PIJAC PET ALERT - February 17, 2009)
-8. Claims of Potential Expansion throughout the U.S. by Invasive Python Species Are Contradicted by Ecological Niche Models - a research paper by R. Alexander Pyron, Frank T. Burbrink, Timothy J. Guiher
-9. USARK S.373 Campaign
+5. [Palm Beach Post Article about S.373, Thursday, February 05, 2009](/herptile_legislative_issues/palm-beach-post-article-about-s373.html)
+6. [Press Release from USARK (U.S. Association of Reptile Keepers) opposing S.373](/herptile_legislative_issues/press-release-from-usark-us-association-of-reptile-keepers-opposing-s373.html)
+7. [Pet Industry Joint Advisory Council Position on S.373 (From PIJAC PET ALERT - February 17, 2009)](/herptile_legislative_issues/pet-industry-joint-advisory-council-position-on-s373-from-pijac-pet-alert-february-17-2009.html)
+8. [Claims of Potential Expansion throughout the U.S. by Invasive Python Species Are Contradicted by Ecological Niche Models](/herptile_legislative_issues/claims-of-potential-expansion-throughout-the-us-by-invasive-python-species-are-contradicted-by-ecological-niche-models.html) - a research paper by R. Alexander Pyron, Frank T. Burbrink, Timothy J. Guiher
+9. [USARK S.373 Campaign](/herptile_legislative_issues/USARK_senate_campaign.html)
 10. Congressional Budget Office to score S.373 (From USARK)
 
 #### H.R. 669, Nonnative Wildlife Invasion Prevention Act
