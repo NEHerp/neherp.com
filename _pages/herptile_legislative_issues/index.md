@@ -49,7 +49,7 @@ This page is an index of information collected from all sides of the discussion.
 
 7. [USARK Follow up First Alert on HR669 - NO on HR669 / Grassroots Organizing 101](/herptile_legislative_issues/usark-follow-up-first-alert-on-hr669-no-on-hr669-grassroots-organizing-101.html)
 
-8. PIJAC Statement on HR669 from http://www.pijac.org
+8. [PIJAC Statement on HR669 from http://www.pijac.org](/herptile_legislative_issues/pijac-statement-on-hr669-from-httpwwwpijacorg.html)
 
 9. Cost-benefit analysis of pre-import screening by Reuben P. Keller, David M. Lodge & David C. Finnoff
 
