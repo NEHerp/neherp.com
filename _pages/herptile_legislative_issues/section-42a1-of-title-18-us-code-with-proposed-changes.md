@@ -1,0 +1,10 @@
+---
+layout: page
+title: Section 42(a)(1) of title 18, U.S. Code with proposed changes
+permalink: /herptile_legislative_issues/section-42a1-of-title-18-us-code-with-proposed-changes.html
+---
+
+
+*The following is the text of Section 42(a)(1) of title 18, United States Code, with the proposed amendment highlighted.*
+
+1. The importation into the United States, any territory of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any possession of the United States, or any shipment between the continental United States, the District of Columbia, Hawaii, the Commonwealth of Puerto Rico, or any possession of the United States, of the mongoose of the species Herpestes auropunctatus; of the species of so-called “flying foxes” or fruit bats of the genus Pteropus; of the zebra mussel of the species Dreissena polymorpha; **of the constrictor snake of the species Python genera**; and such other species of wild mammals, wild birds, fish (including mollusks and crustacea), amphibians, reptiles, brown tree snakes, or the offspring or eggs of any of the foregoing which the Secretary of the Interior may prescribe by regulation to be injurious to human beings, to the interests of agriculture, horticulture, forestry, or to wildlife or the wildlife resources of the United States, is hereby prohibited. All such prohibited mammals, birds, fish (including mollusks and crustacea), amphibians, and reptiles, and the eggs or offspring therefrom, shall be promptly exported or destroyed at the expense of the importer or consignee. Nothing in this section shall be construed to repeal or modify any provision of the Public Health Service Act or Federal Food, Drug, and Cosmetic Act. Also, this section shall not authorize any action with respect to the importation of any plant pest as defined in the Federal Plant Pest Act, insofar as such importation is subject to regulation under that Act.
