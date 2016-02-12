@@ -67,6 +67,6 @@ This page is an index of information collected from all sides of the discussion.
 
 1. The Full Text of The Lacey Act
 
-2. USFWS Notice of Inquiry
+2. [USFWS Notice of Inquiry](/herptile_legislative_issues/usfws-notice-of-inquiry.html)
 
-3. NEHS response to USFWS Inquiry
+3. [NEHS response to USFWS Inquiry](/herptile_legislative_issues/nehs-response-to-usfws-inquiry.html)
