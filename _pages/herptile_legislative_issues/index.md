@@ -59,7 +59,7 @@ This page is an index of information collected from all sides of the discussion.
 
 12. [United States Association of Reptile Keepers Position on Passage of HR669](/herptile_legislative_issues/usark-position-paper-on-hr669.html)
 
-13. USARK Testimony before Subcommittee on Insular Affairs, Oceans & Wildlife
+13. [USARK Testimony before Subcommittee on Insular Affairs, Oceans & Wildlife](/herptile_legislative_issues/usark-testimony-before-subcommittee-on-insular-affairs-oceans-a-wildlife.html)
 
 14. [USARK Letter to Honorable Madeline Bordallo May 20, 2009](/herptile_legislative_issues/usark-letter-to-honorable-madeline-bordallo-may-20-2009.html)
 
