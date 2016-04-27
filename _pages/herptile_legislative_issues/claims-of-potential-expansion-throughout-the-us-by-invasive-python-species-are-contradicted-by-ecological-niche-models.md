@@ -110,7 +110,7 @@ Conceived and designed the experiments: RAP FTB TJG. Performed the experiments: 
 
 ##### References
 
-1. Hijmans RJ, Graham CH (2006) The ability of climate envelope models to predict the effect of climate change on species distributions. Global Change Biol. 12: 1–10. [Find this article online](http://www.plosone.org/article/findArticle.action?author=Hijmans&title=The%20ability%20of%20climate%20envelope%20models%20to%20predict%20the%20effect%20of%20climate%20change%20on%20species%20distributions)
+[1.](#ref1) Hijmans RJ, Graham CH (2006) The ability of climate envelope models to predict the effect of climate change on species distributions. Global Change Biol. 12: 1–10. [Find this article online](http://www.plosone.org/article/findArticle.action?author=Hijmans&title=The%20ability%20of%20climate%20envelope%20models%20to%20predict%20the%20effect%20of%20climate%20change%20on%20species%20distributions)
 
 2. Rodda GH, Jarnevich CS, Reed RN (2008) What parts of the US mainland are climatically suitable for invasive alien pythons spreading from Everglades National Park? Biol Inv.. In Press: doi:10.1007/s10530-008-9228-z. [Find this article online](http://www.plosone.org/article/findArticle.action?author=Rodda&title=What%20parts%20of%20the%20US%20mainland%20are%20climatically%20suitable%20for%20invasive%20alien%20pythons%20spreading%20from%20Everglades%20National%20Park?)
 
