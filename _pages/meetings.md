@@ -23,8 +23,8 @@ Meetings start at 2 PM.
 | Jun 12  |  Open  |  TBD |
 | Jul 10  |  Open  |  TBD |
 | Aug 14  |  Open  |  TBD |
-| Sep 11  |  Open  |  TBD |
-| Oct ??  |  Expo  |   |
+| Sep 25  |  Expo  |  More details: http://www.massreptileexpo.com/ |
+| Oct 9  |  Open  | TBD  |
 | Nov 13  |  Open  |  TBD |
 | Dec 11  |  Holiday Party |   |
   
