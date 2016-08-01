@@ -26,7 +26,7 @@ Meetings start at 2 PM.
 | Sep 25  |  Expo  |  More details: http://www.massreptileexpo.com/ |
 | Oct 9  |  Open  | TBD  |
 | Nov 13  |  Open  |  TBD |
-| Dec 11  |  Holiday Party |   |
+| Dec 11  |  Holiday Party |  TBD |
   
 Dear Prospective Presenter:
 ------------------
