@@ -116,11 +116,11 @@ Conceived and designed the experiments: RAP FTB TJG. Performed the experiments: 
 
  <a name="#ref3">3.</a> Snow RW, Krysko KL, Enge KM, Oberhofer L, Warren-Bradley A, et al. (2007) Introduced Populations of Boa constrictor (Boidae) and Python molurus bivitattus (Pythonidae) in Southern Florida. In: Henderson RW, Powell R, editors. The Biology of Boas and Pythons. Eagle Mountain, UT: Eagle Mountain Pub. pp. 417–438.
 
-[4.](#ref4) McDiarmid RW, Campbell JA, Touré TA (1999) Snake Species of the World: A Taxonomic and Geographic Reference. Washington: Herpetologists' League.
+ <a name="#ref4">[4.]</a> McDiarmid RW, Campbell JA, Touré TA (1999) Snake Species of the World: A Taxonomic and Geographic Reference. Washington: Herpetologists' League.
 
-[5.](#ref5) Rodda GH, Reed RN, Snow RW (2008) USGS Maps Show Potential Non-Native Python Habitat Along Three U.S. Coasts. USGS Press Release 1875. Available: <http://www.usgs.gov/newsroom/article.asp​ID1875> . Accessed 31 March 2008.
+ <a name="#ref5">[5.]</a> Rodda GH, Reed RN, Snow RW (2008) USGS Maps Show Potential Non-Native Python Habitat Along Three U.S. Coasts. USGS Press Release 1875. Available: <http://www.usgs.gov/newsroom/article.asp​ID1875> . Accessed 31 March 2008.
 
-[6.](#ref6) Phillips SJ, Anderson RP, Schapire RE (2006) Maximum entropy modeling of species geographic distributions. Ecol. Mod. 190: 231–259. [Find this article online](http://www.plosone.org/article/findArticle.action?author=Phillips&title=Maximum%20entropy%20modeling%20of%20species%20geographic%20distributions.)
+ <a name="#ref6">[6.]</a> Phillips SJ, Anderson RP, Schapire RE (2006) Maximum entropy modeling of species geographic distributions. Ecol. Mod. 190: 231–259. [Find this article online](http://www.plosone.org/article/findArticle.action?author=Phillips&title=Maximum%20entropy%20modeling%20of%20species%20geographic%20distributions.)
 
 [7.](#ref7) Elith J, Graham CH, Anderson RP, Dudík M, Ferrier S, et al. (2006) Novel methods improve prediction of species' distributions from occurrence data. Ecography 29: 129–151. [Find this article online](http://www.plosone.org/article/findArticle.action?author=Elith&title=Novel%20methods%20improve%20prediction%20of%20species%27%20distributions%20from%20occurrence%20data.)
 
