@@ -25,9 +25,15 @@ Meetings start at 2 PM.
 | Aug 14  |  Open  |  TBD |
 | Sep 25  |  Expo  |  More details: [Mass Reptile Expo](http://www.massreptileexpo.com/) |
 | Oct 9  |  Open  | TBD  |
-| Nov 13  |  Open  |  TBD |
+| Nov 13  | Two Presentations: See below for details | |
 | Dec 11  |  Holiday Party |  TBD |
   
+November 13th Presentations:
+------------------
+
+1. Title: Beastcam: Information and Demo. For more info checkout [here](http://phys.org/news/2016-11-digital-life-aims-d-creatures.html)
+2. TItle: New perspectives on the Social Lives of Lizards. Presented by: Ambika Klamath, Harvard University Graduate student
+
 Dear Prospective Presenter:
 ------------------
 
