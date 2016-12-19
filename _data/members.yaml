@@ -16,8 +16,14 @@
 
 - name: Kimberly Alpert
   role: Director  
+  
+- name: Jeremy Turgeon
+  role: Director / Publicity
+  
+- name: Jack McCarthy
+  role: Director
 
-- name: Katy Morrissey  
+- name: Hillary Chandanais  
   role: Secretary / Membership  
   email: secretary@neherp.com	
 
