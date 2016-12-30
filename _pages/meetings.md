@@ -15,18 +15,18 @@ Meetings start at 2 PM.
 
 |  Date | Topic/Event  | Presenter |
 |---|---|---|
-| Jan 10  |  Basic Enclosure Setups | Kurt Schatzl|
-| Feb 14  |  Open  |  TBD |
-| Mar 13  |  Open  |  TBD |
-| Apr 10  |  Open  |  TBD |
-| May 15  | Expo  |   |
-| Jun 12  |  Open  |  TBD |
-| Jul 10  |  Open  |  TBD |
-| Aug 14  |  Open  |  TBD |
-| Sep 25  |  Expo  |  More details: [Mass Reptile Expo](http://www.massreptileexpo.com/) |
-| Oct 9  |  Open  | TBD  |
-| Nov 13  | Beastcam: Information and Demo.| For more info checkout [here](http://phys.org/news/2016-11-digital-life-aims-d-creatures.html) | 
-| Dec 11  |  Holiday Party |  TBD |
+| Jan 8  |  New Perspectives on the Social Lives of Lizards| Ambika Kamath 
+| Feb 12 |  Colin Donihue  |  Italian wall lizards |
+| Mar 12 |  Open  |  TBD |
+| Apr 9 |  Open  |  TBD |
+| May 21 | Spring Reptile Expo
+| Jun 11 |  Open  |  TBD |
+| Jul 9  |  Open and hoping for a field trip!
+| Aug 13 |  Open  |  TBD |
+| Sep 10 |  Open | TBD |
+| Oct 9  |  Expo  | More details: [Mass Reptile Expo](http://www.massreptileexpo.com/)   |
+| Nov 12  | Open | TBD | 
+| Dec 10  |  Holiday Potluck Party |  TBD |
   
 
 Dear Prospective Presenter:
