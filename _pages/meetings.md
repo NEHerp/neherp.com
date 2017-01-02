@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEHS Meetings Schedule for 2016
+title: NEHS Meetings Schedule for 2017
 menu: Meetings
 category: Menu
 permalink: /meetings/
