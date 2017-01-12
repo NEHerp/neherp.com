@@ -17,7 +17,7 @@ Meetings start at 2 PM.
 |---|---|---|
 | Jan 8  |  New Perspectives on the Social Lives of Lizards| Ambika Kamath 
 | Feb 12 |  Colin Donihue  |  Italian wall lizards |
-| Mar 12 |  Open  |  TBD |
+| Mar 12 | Vernal Pools of the SouthCoast| Lauren Miller-Donnelly of Mass Audubon’s Allens Pond Wildlife Sanctuary |
 | Apr 9 |  Open  |  TBD |
 | May 21 | Spring Reptile Expo
 | Jun 11 |  Open  |  TBD |
