@@ -19,7 +19,7 @@ Meetings start at 2 PM.
 | Feb 12 |  Colin Donihue  |  Italian wall lizards |
 | Mar 12 | Vernal Pools of the SouthCoast| Lauren Miller-Donnelly of Mass Audubon’s Allens Pond Wildlife Sanctuary |
 | Apr 9 |  Open  |  TBD |
-| May 7 | Spring Reptile Expo
+| May 7 | Spring Reptile Expo | More details: [Mass Reptile Expo](http://www.massreptileexpo.com/) |
 | Jun 11 |  Open  |  TBD |
 | Jul 9  |  Open and hoping for a field trip!
 | Aug 13 |  Open  |  TBD |
