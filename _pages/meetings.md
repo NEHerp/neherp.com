@@ -12,6 +12,7 @@ permalink: /meetings/
 [Directions to the NEWC](/directions/)
 
 Meetings start at 1 for the public to gather and talks usually start at 2. |
+
 |  Date | Topic/Event  | Presenter |
 |---|---|---|
 | Jan 8  |  New Perspectives on the Social Lives of Lizards| Ambika Kamath 
@@ -20,7 +21,7 @@ Meetings start at 1 for the public to gather and talks usually start at 2. |
 | Apr 9 |  Open  |  TBD |
 | May 7 | Spring Reptile Expo | More details: [Mass Reptile Expo](http://www.massreptileexpo.com/) |
 | Jun 11 |  Open  |  TBD |
-| Jul 9  |  Open and hoping for a field trip!
+| Jul 9  |  Open and hoping for a field trip! |
 | Aug 13 |  Open  |  TBD |
 | Sep 10 |  Open | TBD |
 | Oct 9  |  Expo  | More details: [Mass Reptile Expo](http://www.massreptileexpo.com/)   |
