@@ -11,7 +11,7 @@ permalink: /meetings/
 
 [Directions to the NEWC](/directions/)
 
-Meetings start at 1 for the public to gather and talks usually start at 2.
+Meetings start at 1 for the public to gather and talks usually start at 2. |
 |  Date | Topic/Event  | Presenter |
 |---|---|---|
 | Jan 8  |  New Perspectives on the Social Lives of Lizards| Ambika Kamath 
