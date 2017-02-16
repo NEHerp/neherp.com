@@ -18,7 +18,7 @@ Meetings start at 1 for the public to gather and talks usually start at 2. |
 | Jan 8  |  New Perspectives on the Social Lives of Lizards| Ambika Kamath 
 | Feb 12 |  Colin Donihue  |  Italian wall lizards |
 | Mar 12 | Vernal Pools of the SouthCoast| Lauren Miller-Donnelly of Mass Audubon’s Allens Pond Wildlife Sanctuary |
-| Mar 25 | Field Trip to Bristol Agricultural School | Brian Bastarache | Conservation of Native Turtle Species and Additional Research. (See Facebook Page or Email Us! For additional Details! |
+| Mar 25 | Field Trip to Bristol Agricultural School: Conservation of Native Turtle Species and Additional Research. (See Facebook Page or Email Us! For additional Details! | Brian Bastarache | 
 | Apr 9 |  Open  |  TBD |
 | May 7 | Spring Reptile Expo | More details: [Mass Reptile Expo](http://www.massreptileexpo.com/) |
 | Jun 11 |  Open  |  TBD |
