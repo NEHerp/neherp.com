@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NEHS Meetings Schedule for 2017
+title: NEHS Meetings and Field Trip Schedule for 2017
 menu: Meetings
 category: Menu
 permalink: /meetings/
@@ -11,7 +11,8 @@ permalink: /meetings/
 
 [Directions to the NEWC](/directions/)
 
-Meetings start at 1 for the public to gather and talks usually start at 2. |
+Meetings start at 1 for the public to gather and talks usually start at 2. 
+Field Trips are members only, but you can sign up at any time through our membership page!
 
 |  Date | Topic/Event  | Presenter |
 |---|---|---|
