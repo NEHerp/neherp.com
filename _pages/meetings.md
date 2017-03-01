@@ -22,7 +22,8 @@ Field Trips are members only, but you can sign up at any time through our member
 | Mar 25 | Field Trip to Bristol Agricultural School: Conservation of Native Turtle Species and Additional Research. (See Facebook Page or Email Us! For additional Details! | Brian Bastarache | 
 | Apr 9 |  Open  |  TBD |
 | May 7 | Spring Reptile Expo | More details: [Mass Reptile Expo](http://www.massreptileexpo.com/) |
-| Jun 11 |  Open  |  TBD |
+| Jun 11 | "Musings on research investigating the function
+of the lizard parietal eye | Peter Kotilainen |
 | Jul 9  |  Open and hoping for a field trip! |
 | Aug 13 |  Open  |  TBD |
 | Sep 10 |  Open | TBD |
